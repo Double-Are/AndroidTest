@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/yourfriendandbear/AndroidStudioProjects/BlogReader2/mobile/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Users/yourfriendandbear/AndroidStudioProjects/BlogReader2/mobile/build/intermediates/pre-dexed/debug/classes-52240e29085f8032899aa1ceacb3d9d266be6cc8.jar"
+        jar="/Users/yourfriendandbear/AndroidStudioProjects/BlogReader2/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/yourfriendandbear/AndroidStudioProjects/BlogReader2/mobile/build/intermediates/pre-dexed/debug/classes-9b076f90ac584175c4ac06cb6bf6e6988819904b.jar"
+        jar="/Users/yourfriendandbear/AndroidStudioProjects/BlogReader2/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/5.0.77/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="80a6f6f2d0dfcfae8c424cf81dcdf7157e7bf4b8"/>
+
+</pre-dex-items>

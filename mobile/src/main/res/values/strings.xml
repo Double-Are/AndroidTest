@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlogReader2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty">No items to be displayed!</string>
+    <string name="title_dialog">Opps! Sorry.</string>
+    <string name="error_dialog">There was an error getting data.</string>
+    <string name="action_share">Share</string>
+
+    <string-array name="list_names">
+        <item>Profile</item>
+        <item>Trending</item>
+        <item>Game</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string name="title_activity_my_activity_second">MyActivitySecondActivity</string>
+    <string name="exception">Exception caught: </string>
+
+</resources>
