@@ -64,16 +64,16 @@
       <file leaf-file-name="MainListActivity_Two.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mobile/src/main/java/com/darriustaylor/blogreader2/MainListActivity_Two.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19323671" vertical-offset="585" max-vertical-offset="3720">
-              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+            <state vertical-scroll-proportion="-3.057971" vertical-offset="2889" max-vertical-offset="3555">
+              <caret line="66" column="27" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#5313#5338#0" expanded="true" />
-                <element signature="e#5925#5941#0" expanded="true" />
-                <element signature="e#6680#6712#0" expanded="true" />
-                <element signature="e#6742#6774#0" expanded="true" />
-                <element signature="e#7010#7035#0" expanded="true" />
-                <element signature="e#7736#7765#0" expanded="true" />
+                <element signature="e#4966#4991#0" expanded="true" />
+                <element signature="e#5578#5594#0" expanded="true" />
+                <element signature="e#6333#6365#0" expanded="true" />
+                <element signature="e#6395#6427#0" expanded="true" />
+                <element signature="e#6663#6688#0" expanded="true" />
+                <element signature="e#7389#7418#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1788,6 +1788,78 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlogReader2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidTest" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlogReader2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidTest" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlogReader2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidTest" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlogReader2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidTest" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidTest" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blogreader2" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -2083,12 +2155,12 @@
           <caret line="65" column="27" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5313#5338#0" expanded="true" />
-            <element signature="e#5925#5941#0" expanded="true" />
-            <element signature="e#6680#6712#0" expanded="true" />
-            <element signature="e#6742#6774#0" expanded="true" />
-            <element signature="e#7010#7035#0" expanded="true" />
-            <element signature="e#7736#7765#0" expanded="true" />
+            <element signature="e#4966#4991#0" expanded="true" />
+            <element signature="e#5578#5594#0" expanded="true" />
+            <element signature="e#6333#6365#0" expanded="true" />
+            <element signature="e#6395#6427#0" expanded="true" />
+            <element signature="e#6663#6688#0" expanded="true" />
+            <element signature="e#7389#7418#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2153,12 +2225,12 @@
           <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5313#5338#0" expanded="true" />
-            <element signature="e#5925#5941#0" expanded="true" />
-            <element signature="e#6680#6712#0" expanded="true" />
-            <element signature="e#6742#6774#0" expanded="true" />
-            <element signature="e#7010#7035#0" expanded="true" />
-            <element signature="e#7736#7765#0" expanded="true" />
+            <element signature="e#4966#4991#0" expanded="true" />
+            <element signature="e#5578#5594#0" expanded="true" />
+            <element signature="e#6333#6365#0" expanded="true" />
+            <element signature="e#6395#6427#0" expanded="true" />
+            <element signature="e#6663#6688#0" expanded="true" />
+            <element signature="e#7389#7418#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2223,12 +2295,12 @@
           <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5313#5338#0" expanded="true" />
-            <element signature="e#5925#5941#0" expanded="true" />
-            <element signature="e#6680#6712#0" expanded="true" />
-            <element signature="e#6742#6774#0" expanded="true" />
-            <element signature="e#7010#7035#0" expanded="true" />
-            <element signature="e#7736#7765#0" expanded="true" />
+            <element signature="e#4966#4991#0" expanded="true" />
+            <element signature="e#5578#5594#0" expanded="true" />
+            <element signature="e#6333#6365#0" expanded="true" />
+            <element signature="e#6395#6427#0" expanded="true" />
+            <element signature="e#6663#6688#0" expanded="true" />
+            <element signature="e#7389#7418#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2395,16 +2467,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile/src/main/java/com/darriustaylor/blogreader2/MainListActivity_Two.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19323671" vertical-offset="585" max-vertical-offset="3720">
-          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        <state vertical-scroll-proportion="-3.057971" vertical-offset="2889" max-vertical-offset="3555">
+          <caret line="66" column="27" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5313#5338#0" expanded="true" />
-            <element signature="e#5925#5941#0" expanded="true" />
-            <element signature="e#6680#6712#0" expanded="true" />
-            <element signature="e#6742#6774#0" expanded="true" />
-            <element signature="e#7010#7035#0" expanded="true" />
-            <element signature="e#7736#7765#0" expanded="true" />
+            <element signature="e#4966#4991#0" expanded="true" />
+            <element signature="e#5578#5594#0" expanded="true" />
+            <element signature="e#6333#6365#0" expanded="true" />
+            <element signature="e#6395#6427#0" expanded="true" />
+            <element signature="e#6663#6688#0" expanded="true" />
+            <element signature="e#7389#7418#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -63,19 +63,8 @@ public class MainListActivity_Two extends ListActivity {
             Toast.makeText(this, "Network is unavailable", Toast.LENGTH_LONG).show();
         }
 
+        //creates a parse object
         ParseObject object;
-
-        /*
-        Resources resources = getResources();
-        mHomeScreen = resources.getStringArray(R.array.list_names);
-
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, mHomeScreen);
-        setListAdapter(adapter);
-        */
-
-        //Toast.makeText(this, getString(R.string.empty), Toast.LENGTH_LONG).show();
-
-
     }
 
     private boolean isNetworkAvailable() {
