@@ -1,4 +1,0 @@
-AndroidTest
-===========
-
-Treehouse tutorial
